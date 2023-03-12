@@ -1,4 +1,4 @@
-👋 Hi, I’m @dino9611 , I’m interested in programming, web and mobile development. i love to develop some apps that interesting and challenging
+👋 Hi, I’m @dino9611 , I’m interested in programming, web and mobile development. i love to develop apps that interesting and challenging
 
 <!-- - Able to code in typescript, javascript, and golang.
 - I’m have skill and experience in nodejs(typescript), golang rest api, and react using typescrpt or javascript.
