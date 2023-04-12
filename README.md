@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dino9611" alt="dino9611" /></a> </p>
 
-- 🔭 I’m currently working as **Technical Trainer**
+- 🔭 I’m currently working as **Software enginerr** and **Technical Trainer** 
 
-- 🌱 I’m currently learning **Scalable Apps**
+- 🌱 I’m a full stack engineer using  **React, golang, and node.js**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/dino-porto](https://bit.ly/dino-porto)
 
